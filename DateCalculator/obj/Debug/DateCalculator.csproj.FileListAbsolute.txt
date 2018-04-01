@@ -1,0 +1,9 @@
+D:\ShreeWebWorld\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.config
+D:\ShreeWebWorld\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe
+D:\ShreeWebWorld\DateCalculator\DateCalculator\bin\Debug\DateCalculator.pdb
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csprojResolveAssemblyReference.cache
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.Form1.resources
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.Properties.Resources.resources
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csproj.GenerateResource.Cache
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.exe
+D:\ShreeWebWorld\DateCalculator\DateCalculator\obj\Debug\DateCalculator.pdb
